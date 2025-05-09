@@ -3,3 +3,9 @@ https://www.kaggle.com/datasets/fgloblek/protein-intake-and-muscle-mass-data-pmc
 
 
 Due to licensing restrictions, the dataset itself is not redistributed in this repository. However, the Jupter Notebook provides full instructions and code to replicate the analysis once the dataset is downloaded.
+
+
+## Contributors
+- Derick Vega
+- Darren Bonjour
+- Burak Serik
